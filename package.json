@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/QuePlan/sequelize-hierarchy.git"
+    "url": "https://github.com/QuePlan/sequelize-hierarchy-qp.git"
   },
   "bugs": {
     "url": "https://github.com/overlookmotel/sequelize-hierarchy/issues"
