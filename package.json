@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-hierarchy-qp",
+  "name": "@queplan/sequelize-hierarchy-qp",
   "version": "1.0.1",
   "description": "Nested hierarchies for Sequelize",
   "main": "./lib/",
